@@ -1,0 +1,29 @@
+Metadata-Version: 2.4
+Name: dewew
+Version: 0.0.2
+Summary: GitHub fayllarini yuklovchi oddiy vosita.
+Home-page: https://github.com/DeWeWO/uzb_kitoblar
+Author: DeWeW
+Author-email: dewel000per@gmail.com
+License: MIT
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: requests
+Dynamic: author
+Dynamic: author-email
+Dynamic: classifier
+Dynamic: description
+Dynamic: description-content-type
+Dynamic: home-page
+Dynamic: license
+Dynamic: license-file
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary
+
+# dewew_downloader
+
+GitHub fayllarini yuklab, istalgan loyihangizga joylashtiruvchi mini paket.

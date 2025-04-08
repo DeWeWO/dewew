@@ -1,0 +1,11 @@
+LICENSE
+README.md
+pyproject.toml
+setup.py
+dewew/__init__.py
+dewew/tools.py
+dewew.egg-info/PKG-INFO
+dewew.egg-info/SOURCES.txt
+dewew.egg-info/dependency_links.txt
+dewew.egg-info/requires.txt
+dewew.egg-info/top_level.txt
