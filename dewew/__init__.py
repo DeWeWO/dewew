@@ -1,1 +1,1 @@
-from .tools import download_github_file
+from .tools import download_from_github
