@@ -2,9 +2,8 @@ from setuptools import setup, find_packages
 
 setup(
     name='dewew',
-    version='0.0.6',
+    version='0.0.7',
     packages=find_packages(),
-    install_requires=['requests'],
     author='DeWeW',
     author_email='dewel000per@gmail.com',
     description='GitHub fayllarini yuklovchi oddiy vosita.',
@@ -14,6 +13,10 @@ setup(
     classifiers=[
         'Programming Language :: Python :: 3',
         'Operating System :: OS Independent',
+    ],
+    install_requires=[
+        'colorama',
+        'requests',
     ],
     python_requires='>=3.6',
     license='MIT',
